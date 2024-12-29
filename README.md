@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VitaliS42
-- 👀 I’m interested in camping and coding
 - 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on interesting projects, that can boost my skills
 - 📫 How to reach me ...
